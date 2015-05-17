@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AlertClock/AlertClock.iml" filepath="$PROJECT_DIR$/AlertClock/AlertClock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlertClockProject.iml" filepath="$PROJECT_DIR$/AlertClockProject.iml" />
+    </modules>
+  </component>
+</project>
+
